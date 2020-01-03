@@ -1,0 +1,10 @@
+# Database access configuration
+/Volumes/DATA/2-teaching/DBS/DBS-connectivity/DBS-JavaWithMySQL-example/src/mydatabase/version1/Config.java
+
+# OS specific
+.DS_Store
+
+# NetBeans specific
+build/
+dist/
+nbproject/private/
